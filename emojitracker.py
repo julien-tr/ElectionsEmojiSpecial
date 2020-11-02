@@ -22,7 +22,7 @@ def main():
     while True:
         data = get_rankings()
         print_to_file()
-        time.sleep(120)
+        time.sleep(300)
 
 
 if __name__ == "__main__":
